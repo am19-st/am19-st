@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Anya
-- 👀 I’m interested in Java programming
-- 🌱 I’m currently learning in Moscow
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming and overwatch gaming
+- 🌱 I’m currently learning Java
 - 📫 How to reach me @nnvkx (telegram)
 
 <!---
